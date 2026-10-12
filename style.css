@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.card {
+  background-color: blueviolet;
+  padding: 20px;
+  border: 5px;
+  color: blue;
+}
+
+.card h2 {
+  font-size: 40px;
+  color: bisque;
+}
+
+.card p {
+  font-size: 20px;
+}
+
+.btn {
+  background-color: whitesmoke color(srgb red green blue);
+}
